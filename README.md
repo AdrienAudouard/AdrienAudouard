@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-*Front end developer at [Atos](https://atos.net/)*  
+*Front-end developer at [Atos](https://atos.net/)*  
 <a href="https://www.linkedin.com/in/adrien-audouard/">
   <img align="left" alt="Adrien Audouard's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
