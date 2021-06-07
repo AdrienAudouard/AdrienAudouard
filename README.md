@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=red&color=black)
 
 A JSON Formatter tool made with Angular.  
-Visualize and edit your JSON.
+Visualize and edit your JSON.  
 [Link](https://github.com/AdrienAudouard/json-formatter) | [Live demo](https://adrienaudouard.github.io/json-formatter/)
 
 ### Battleship Game built with JS and React Native
@@ -39,6 +39,7 @@ Visualize and edit your JSON.
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&logoColor=ColorName&color=black)
 
+*Work in progress...*
 <!--
 **AdrienAudouard/AdrienAudouard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
