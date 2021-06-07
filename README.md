@@ -38,6 +38,18 @@ Visualize and edit your JSON.
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Socket.io-informational?style=flat&logo=Socket.io&logoColor=ColorName&color=black)
+
+A multiplayer battleship game available on Web, iOS and Android build with Javascrip, React Native, Node.js and Socket.io.  
+[Link](https://github.com/AdrienAudouard/NodeJs-Battleship) | [Live demo](https://ad-battleship.herokuapp.com/) | [Google Play](https://play.google.com/store/apps/details?id=fr.adrienaudouard.battleshipper&hl=fr)
+
+### Javascript Soccer Star Game
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Webpack-informational?style=flat&logo=Webpack&logoColor=ColorName&color=black)
+
+A football game inspired by [Soccer Stars by MiniClip](https://www.miniclip.com/games/soccer-stars-mobile/fr/) build with Javascript and Webpack
+
+[Link](https://github.com/AdrienAudouard/FootballGame)
 
 *Work in progress...*
 <!--
