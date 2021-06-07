@@ -8,8 +8,8 @@
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=red&color=black)
-![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=Flutter&logoColor=red&color=black)
-![](https://img.shields.io/badge/React&nbsp;Native-informational?style=flat&logo=React&logoColor=red&color=black)
+![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=Flutter&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/React&nbsp;Native-informational?style=flat&logo=React&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Swift-informational?style=flat&logo=Swift&logoColor=orange&color=black)
 ![](https://img.shields.io/badge/Android-informational?style=flat&logo=Java&logoColor=green&color=black)
 <br/>
@@ -26,7 +26,7 @@
 ## 🚀 Some of my projects
 
 ### Flutter Covid Tracker
-![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=Flutter&logoColor=red&color=black)
+![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=Flutter&logoColor=ColorName&color=black)
 
 Follow the Covid evolution with this Flutter App.  
 
@@ -41,7 +41,7 @@ Visualize and edit your JSON.
 [Link](https://github.com/AdrienAudouard/json-formatter) | [Live demo](https://adrienaudouard.github.io/json-formatter/)
 
 ### Battleship Game built with JS and React Native
-![](https://img.shields.io/badge/React&nbsp;Native-informational?style=flat&logo=React&logoColor=red&color=black)
+![](https://img.shields.io/badge/React&nbsp;Native-informational?style=flat&logo=React&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&logoColor=ColorName&color=black)
