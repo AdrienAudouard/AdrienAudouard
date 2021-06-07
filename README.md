@@ -25,6 +25,13 @@
 
 ## 🚀 Some of my projects
 
+### Flutter Covid Tracker
+![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=Flutter&logoColor=red&color=black)
+
+Follow the Covid evolution with this Flutter App.  
+
+[Link](https://github.com/AdrienAudouard/Flutter-Covid-Tracker)
+
 ### Angular JSON Formatter
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=red&color=black)
