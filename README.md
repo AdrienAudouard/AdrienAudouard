@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-*Front-end developer at akt.io [<img alt="Atos" width="20px" src="https://icoholder.com/files/img/b044e3965f71c6867721f994f3f0aef1.png"/>](https://atos.net/)  
+Lead Front-end developer at akt.io [<img alt="Atos" width="20px" src="https://icoholder.com/files/img/b044e3965f71c6867721f994f3f0aef1.png"/>](https://atos.net/)  
 <a href="https://www.linkedin.com/in/adrien-audouard/">
   <img align="left" alt="Adrien Audouard's LinkedIN" src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=ColorName&color=black"/>
 </a>
