@@ -5,6 +5,7 @@ Lead Front-end developer at akt.io [<img alt="Atos" width="20px" src="https://ic
 </a>
 <br />
 ## ⚡️ What I'm working with
+![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=red&color=black)
@@ -14,6 +15,7 @@ Lead Front-end developer at akt.io [<img alt="Atos" width="20px" src="https://ic
 ![](https://img.shields.io/badge/Android-informational?style=flat&logo=Java&logoColor=green&color=black)
 <br/>
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/NestJS-informational?style=flat&logo=NestJS&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=Graphql&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=ColorName&color=black)
@@ -25,12 +27,33 @@ Lead Front-end developer at akt.io [<img alt="Atos" width="20px" src="https://ic
 
 ## 🚀 Some of my projects
 
-### Flutter Covid Tracker
-![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=Flutter&logoColor=ColorName&color=black)
 
-Follow the Covid evolution with this Flutter App.  
+### React & NestJS - Wordle Multiplayer Game (in progress)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/NestJS-informational?style=flat&logo=NestJS&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/NX-informational?style=flat&logo=NX&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Storybook-informational?style=flat&logo=Storybook&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Socket.IO-informational?style=flat&logo=Socket.IO&logoColor=ColorName&color=black)
 
-[Link](https://github.com/AdrienAudouard/Flutter-Covid-Tracker)
+An online wordle game made with React, NestJS, SocketIO, NX and Storybook.
+
+[Link](https://github.com/AdrienAudouard/tusmo) | [Demo](https://adrienaudouard.github.io/tusmo/home)
+
+### VS Code Extension: Flutter Toolkit (500+ downloads)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
+
+A Visual Studio Code extension that provide some utils tools for the Flutter developers
+
+[Link](https://github.com/AdrienAudouard/flutter-utils) | [Download](https://marketplace.visualstudio.com/items?itemName=AdrienAudouard.flutter-utils)
+
+### React - ARB Reader (in progress)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
+
+A React tool that help to vizualize and compare ARB files.
+
+[Link](https://github.com/AdrienAudouard/arb-reader)
 
 ### Angular JSON Formatter
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
