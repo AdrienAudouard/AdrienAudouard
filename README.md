@@ -60,7 +60,6 @@ A React tool that help to vizualize and compare ARB files.
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=red&color=black)
 
 A JSON Formatter tool made with Angular.  
-Visualize and edit your JSON.  
 [Link](https://github.com/AdrienAudouard/json-formatter) | [Live demo](https://adrienaudouard.github.io/json-formatter/)
 
 ### Battleship Game built with JS and React Native
