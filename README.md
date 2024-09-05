@@ -40,7 +40,7 @@ An online wordle game made with React, NestJS, SocketIO, NX and Storybook.
 
 [Link](https://github.com/AdrienAudouard/tusmo) | [Demo](https://adrienaudouard.github.io/tusmo/home)
 
-### VS Code Extension: Flutter Toolkit (600+ downloads)
+### VS Code Extension: Flutter Toolkit (5000+ downloads)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 
 A Visual Studio Code extension that provide some utils tools for the Flutter developers
